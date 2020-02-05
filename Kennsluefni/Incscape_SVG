@@ -1,0 +1,86 @@
+
+Inkscape
+https://inkscape.org/
+
+a)  Vector vs raster. Inkscape For Laser Cutting, Beginners Tutorial: 
+	https://www.youtube.com/watch?v=fCw5lE_vbbc
+
+	kafli 1.1, hvað er vector:
+	https://www.amazon.com/dp/B00E2J5KNM//ref=cm_sw_su_dp?tag=nethta-20
+
+b)  læra á incscape
+    
+    Incscape learn:
+    https://inkscape.org/learn/
+
+    Inkscape Explained (8 x myndbönd):
+    https://www.youtube.com/playlist?list=PLynG8gQD-n8Byyq30_FOq9ylUFL1nTkGC&
+
+    Tólin útskýrð (8 x myndbönd): 
+    https://www.youtube.com/playlist?list=PLGLfVvz_LVvTSi9bKrvGR2_DBg0Tv8Dxo
+
+
+c)  Verkefni, boxið hannað útfrá vector teikningu (með raster mynd engraving? eða svg mynnd á loki)
+
+   	 - extensions: https://inkscape.org/gallery/=extension/
+
+   	 - (í vinnslu) Designing a Finger Jointed Box for Laser Cutting (með Tabbed Box Maker extension)
+	   https://www.instructables.com/id/Designing-a-Finger-Jointed-Box-for-Laser-Cutting/
+
+	 - stillingar og gott að vita fyrir Inkscape og laserprentara (þarf að kanna hjá Arnóri betur): (í vinnslu)
+
+		How to Prepare Your Lasercutting Files (Inkscape)
+		https://www.instructables.com/id/How-to-prepare-your-lasercutting-files-Inkscape/
+
+		Designing for Laser Cutting in Inkscape (gott að vita) 
+		https://sendcutsend.com/blogs/blog/designing-for-laser-cutting-in-inkscape
+
+		Inkscape Tutorial: Prepare your files for laser cutting
+		https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/
+
+
+
+Gott að minnast á við nemendur:
+
+	Vefhönnun 2.önn:					SVG fyrir vef.
+	Viðmótsforritun (valáfangi):		SVG og animation með JavaScript forritun.
+	Leikjaforritun 						SVG 2D grafík assets.
+
+
+
+Tutorials:
+
+	Inkscape essential training (frír aðgangur fyrir kennara)
+	https://www.lynda.com/Inkscape-tutorials/Inkscape-Essential-Training/418854-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aInkscape%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+
+
+
+
+Glósur:
+
+	vector (points, lines, handles) 
+	raster (pixlar) 
+	
+	curve:  2 punktar og handles = lína bein eða sveigð, bezier curve
+	shape:	lokuð curve eða lykkja þá getum við notað stroke og fill.
+			Prentari meðhhöndlar sem raster.
+	path:	slóðin sem myndar shape.
+
+	object: shape tengd saman.
+	Path:   Venn diagram (path union etc)
+
+	þykkt línu skiptir ekki máli fyrir laserprentun, fer bara í miðju. 0.4 mm skurður
+	þykkt á plexigleri er 3mm.
+
+	Trace bitmap skipun til að concerta raster í vektor
+	
+	simplify to reduce points
+
+	afhverju að nota ljósa liti fyrir lasercut í hönnun.
+
+
+
+	
+
+
