@@ -1,5 +1,5 @@
 <!--
-### Hugmyndir að verkefnum
+### Miðannarverkefni 20%
 
 #### að vinna með ljós, hands on projects
 * [LEDS AND LIGHTING CLASS](https://www.instructables.com/class/LEDs-and-Lighting-Class/)
