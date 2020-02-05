@@ -1,4 +1,5 @@
-### Undirbúningur fyrir verkefni 2
+
+### Undirbúningur 
 
 * tímaverkefni (2 klst) 
 * verklegt og bóklegt
