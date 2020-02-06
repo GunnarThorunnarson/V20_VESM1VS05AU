@@ -30,20 +30,19 @@
 * veggir ættu að vera 2-3mm á þykkt (meira er óþarfi og tekur langan tíma að 3D prenta)
 
 
-<!--
+
 ### Námsmat 
+Dregið er niður um 1 fyrir hvert atriði sem er ábótavant eða vantar:
 
-**Einkunn 10**
-* Skýrsla er fullnægjandi, sjá gátlista hér að ofan í verkefnalýsingu
-* 3D prentun á Arduino hulstur virkar skv. 3D teikningu og er nothæft (lokið virkar og Arduino passar í )
-* Boxið er með SVG mynd og LaserPrentun heppnaðist skv hönnun í Inkscape.
+* Lok virkar ekki eða vantar.
+* Arduino passar ekki í box eða er of rúmt.
+* framsetning og uppsetning á skýrslu (markdown) í Github Wiki
+* mynd í skýrslu
+* tengill á hönnunarteikningu
+* lýsing á verkferli í skýrslu
 
-**Einkunn 7.5**
-Skýrsla, Arduino hulstur eða boxið er ábótavant.
 
-**Einkunn 5**
-Tvö af þremur eftirtöldu er ábótavant; skýrslan, Arduino hulstur, Boxið.
 
-**Einkunn 2.5**
-Skýrsla, Arduino hulstur og skýrslan eru ábótavant.
--->
+
+
+
