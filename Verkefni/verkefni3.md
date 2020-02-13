@@ -32,7 +32,8 @@ Búðu til vefsíðu á Wiki í Github til að halda utan um skýrslu fyrir verk
 Skilaðu í Innu tengil á vefsíðu.
 
 <br>
-___
+
+---
 
 #### Makers+ hönnunarsamkeppnin
 Tækniskólinn er þessa dagana að taka þátt í alþjóðlegu samstarfsverkefni sem snýst um að búa til námsefni fyrir framtíðarstofur (makerspaces). Þetta er þriggja ára verkefni sem við erum að vinna með samstarfsaðilum frá Belgíu, Tyrklandi, Þýskalandi, Frakklandi, Spáni og Austurríki.
