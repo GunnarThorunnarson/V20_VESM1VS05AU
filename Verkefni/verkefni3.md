@@ -1,9 +1,13 @@
 
 <!--
-## Hannaðu kassa utan um Arduino verkefni 
+## Verkefni 3 
+
+### (6%) Hannaðu eigið logo og taktu þátt í Maker+
+
+### (4%) Hannaðu kassa utan um Arduino og brauðbretti
 
 * Notaðu Inkscape til að hanna kassa fyrir laser prentun.
-* Gerðu þína eigin SVG teikningu á lokið.
+* Merktu kassann með nafninu þínu.
 * Efniviður er krossviður.
 * Útfærðu lokun. 
 * Hönnun og útfærsla er frjáls að öðru leyti.
