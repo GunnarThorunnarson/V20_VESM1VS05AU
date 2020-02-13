@@ -15,9 +15,10 @@ Eftirfarandi notkun þarf að vera uppfyllt:
 
 ### B (5%) Kassi utan um Arduino og brauðbretti
 
-1. Notaðu Inkscape til að hanna kassa fyrir laser prentun.
-1. Merktu kassann með nafninu þínu.
-1. Útfærðu lokun. 
+1. notaðu Inkscape til að hanna kassa fyrir laser prentun.
+1. notaðu extension til að vinna með sjá: https://inkscape.org/gallery/=extension/
+1. merktu kassann með nafninu þínu.
+1. útfærðu lokun. 
 
 Hönnun og útfærsla er frjáls að öðru leyti.
 
