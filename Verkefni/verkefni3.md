@@ -1,15 +1,15 @@
 ## Verkefni 3 
 
-### A (5%) Logo 
+### A 5%) Logo 
 Hannaðu eigið SVG logo með Inkscape fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
 Þú þarft ekki að senda hönnunina þína inn ferkar en þú vilt.
 
-Eftirfarandi notkun þarf að vera uppfyllt:
+Eftirfarandi noktun þarf að vera uppfyllt:
 
-* shapes, fill, stroke, groups, levels etc.
-* lines and paths; Bezier tool, boolean operations, subpaths and combining, freehand,inset and outset etc.
+* shapes notkun, fill, stroke, groups, levels 
+* lines and paths notkun; Bezier tool og það sem á við t.d; boolean operations, subpaths and combining, freehand, inset and outset
 * text and fonts
-* color
+* colors
 * layers, filters
 * _tracing images and bitmap_ (valkvæmt)
 
