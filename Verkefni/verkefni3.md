@@ -33,6 +33,7 @@ Skilaðu í Innu tengil á vefsíðu.
 
 <br>
 <br>
+
 ### Makers+ hönnunarsamkeppnin
 Tækniskólinn er þessa dagana að taka þátt í alþjóðlegu samstarfsverkefni sem snýst um að búa til námsefni fyrir framtíðarstofur (makerspaces). Þetta er þriggja ára verkefni sem við erum að vinna með samstarfsaðilum frá Belgíu, Tyrklandi, Þýskalandi, Frakklandi, Spáni og Austurríki.
 Megin markmið verkefnisins er að búa til samræmt námsefni sem verður gefið út í opnum aðgangi fyrir stofnanir og einstaklinga sem vilja nýta sér framtíðarstofur, hvort sem er til náms eða kennslu. Námsefnið á að henta bæði sem kennsluefni fyrir kennara og leiðbeinendur og efni sem þeir geta notað við kennslu nemenda.
