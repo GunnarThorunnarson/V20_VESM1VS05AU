@@ -21,6 +21,7 @@ Eftirfarandi notkun þarf að vera uppfyllt:
 1. útfærðu lokun. 
 
 Hönnun og útfærsla er frjáls að öðru leyti.
+[Sýnidæmi](https://github.com/tolvubraut/VESM-Haust19-ArduinoKassi/wiki/Verkefni-3.2)
 
 ### Skýrsla og skil 
 Búðu til vefsíðu á Wiki í Github til að halda utan um skýrslu fyrir verkefni 3
