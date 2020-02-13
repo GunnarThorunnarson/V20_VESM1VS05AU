@@ -1,6 +1,6 @@
 ## Verkefni 3 
 
-### A 5%) Logo 
+### A Logo (5%)  
 Hannaðu eigið SVG logo með Inkscape fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
 Þú þarft ekki að senda hönnunina þína inn ferkar en þú vilt.
 
@@ -13,7 +13,7 @@ Eftirfarandi noktun þarf að vera uppfyllt:
 * layers, filters
 * _tracing images and bitmap_ (valkvæmt)
 
-### B (5%) Kassi utan um Arduino og brauðbretti
+### B Kassi utan um Arduino og brauðbretti (5%) 
 
 1. notaðu Inkscape til að hanna kassa fyrir laser prentun.
 1. notaðu extension til að vinna með sjá: https://inkscape.org/gallery/=extension/
