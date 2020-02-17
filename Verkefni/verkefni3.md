@@ -1,16 +1,16 @@
 ## Verkefni 3 
 
 ### A) Logo (5%)  
-Hannaðu eigið SVG logo með Inkscape fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
-Þú þarft ekki að senda hönnunina þína inn ferkar en þú vilt.
+Hannaðu eigið SVG logo með Inkscape skv. lýsingu fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
+Þú þarft ekki að senda hönnunina þína í keppnina frekar en þú vilt.
 
-Eftirfarandi noktun þarf að vera uppfyllt:
+Eftirfarandi notkun þarf að vera uppfyllt:
 
-* shapes notkun, fill, stroke, groups, levels 
+* shapes og aðgerðir td; fill, stroke, groups, levels 
 * lines and paths notkun; Bezier tool og það sem á við t.d; boolean operations, subpaths and combining, freehand, inset and outset
 * text and fonts
 * colors
-* layers, filters
+* layers, filters (eftir þörfum)
 * _tracing images and bitmap_ (valkvæmt)
 
 ### B) Kassi utan um Arduino og brauðbretti (5%) 
