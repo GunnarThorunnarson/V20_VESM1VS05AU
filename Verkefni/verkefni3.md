@@ -2,7 +2,7 @@
 
 ### A) Logo (5%)  
 Hannaðu eigið SVG logo með Inkscape skv. lýsingu fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
-Þú þarft ekki að senda hönnunina þína í keppnina frekar en þú vilt.
+Þú þarft ekki að senda hönnunina þína í keppnina frekar en þú vilt og þú mátt gera logo fyrir sjálfan þig.
 
 Eftirfarandi notkun þarf að vera uppfyllt:
 
