@@ -12,6 +12,7 @@ Eftirfarandi notkun þarf að vera uppfyllt:
 * colors
 * layers, filters (eftir þörfum)
 * _tracing images and bitmap_ (valkvæmt)
+* vistaðu Logo með svg sniði
 
 ### B) Kassi utan um Arduino og brauðbretti (5%) 
 
@@ -19,6 +20,7 @@ Eftirfarandi notkun þarf að vera uppfyllt:
 1. notaðu extension til að vinna með sjá: https://inkscape.org/gallery/=extension/
 1. merktu kassann með nafninu þínu.
 1. útfærðu lokun. 
+1. vistaðu hönnun með pdf sniði.
 
 Hönnun og útfærsla er frjáls að öðru leyti.
 [Sýnidæmi](https://github.com/tolvubraut/VESM-Haust19-ArduinoKassi/wiki/Verkefni-3.2)
