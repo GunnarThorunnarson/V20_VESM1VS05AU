@@ -1,8 +1,7 @@
 ## Verkefni 3 
 
 ### A) Logo (5%)  
-Hannaðu eigið SVG logo með Inkscape skv. lýsingu fyrir Makers+ hönnunarsamkeppnina (sjá lýsingu neðst).
-Þú þarft ekki að senda hönnunina þína í keppnina frekar en þú vilt og þú mátt gera logo fyrir sjálfan þig.
+Hannaðu með Inkscape eigið SVG logo eða taktu þátt í Makers+ hönnunarkeppninni (sjá lýsingu neðst).
 
 Eftirfarandi notkun þarf að vera uppfyllt:
 
@@ -11,16 +10,15 @@ Eftirfarandi notkun þarf að vera uppfyllt:
 * text and fonts
 * colors
 * layers, filters (eftir þörfum)
-* _tracing images and bitmap_ (valkvæmt)
 * vistaðu Logo með svg sniði
 
 ### B) Kassi utan um Arduino og brauðbretti (5%) 
 
 1. notaðu Inkscape til að hanna kassa fyrir laser prentun.
 1. notaðu extension til að vinna með sjá: https://inkscape.org/gallery/=extension/
-1. merktu kassann með nafninu þínu.
+1. merktu kassann með nafninu þínu og ef þú vilt einnig mynd ( sjá tracing images and bitmap)
 1. útfærðu lokun. 
-1. vistaðu hönnun með pdf sniði.
+1. vistaðu hönnun með svg sniði.
 
 Hönnun og útfærsla er frjáls að öðru leyti.
 [Sýnidæmi](https://github.com/tolvubraut/VESM-Haust19-ArduinoKassi/wiki/Verkefni-3.2)
@@ -30,7 +28,7 @@ Búðu til vefsíðu á Wiki í Github til að halda utan um skýrslu fyrir verk
 
 * Settu tengil á SVG logo í e. repository til að niðurhala.
 * Verkferlið; hvað var notað (e. extension), stillingar, hvað var gert og hvernig.
-* Tengil á pdf skrá af hönnun (fyrir laser prentun) vistað hér í e. repository til að niðurhala.
+* Tengil á svg skrá af hönnun (fyrir laser prentun) vistað hér í e. repository til að niðurhala.
 * Ljósmynd af kassa í notkun.
 
 Skilaðu í Innu tengil á vefsíðu.
