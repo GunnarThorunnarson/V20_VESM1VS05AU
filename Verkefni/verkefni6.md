@@ -29,7 +29,7 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 1. Fylgdu [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors) verklega með brauðbretti, DC motor og íhlutum.
 
 
-### 6.2: Server Motors (5%)
+### 6.2: Servo Motors (5%)
 1. Kynntu þér rafþétta (e. capasitors):
    * [Circuit Playground: C is for Capacitor](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
    * [Myndbandsfyrirlestur frá kennara](https://www.youtube.com/watch?v=XOumiF_F8ww&feature=youtu.be)
