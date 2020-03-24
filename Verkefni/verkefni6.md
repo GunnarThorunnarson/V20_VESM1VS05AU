@@ -31,7 +31,6 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 
 ### 6.2: Server Motors
 1. Kynntu þér rafþétta (e. capasitors):
-
    * [Circuit Playground: C is for Capacitor](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
    * [Myndbandsfyrirlestur frá kennara](https://www.youtube.com/watch?v=XOumiF_F8ww&feature=youtu.be)
    * [Vegrein á ensku](https://www.instructables.com/lesson/Capacitors-2/)
