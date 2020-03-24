@@ -32,9 +32,9 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 ### 6.2: Server Motors
 1. Kynntu þér rafþétta (e. capasitors):
 
-   1.[Circuit Playground: C is for Capacitor](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
-   1.[Myndbandsfyrirlestur frá kennara](https://www.youtube.com/watch?v=XOumiF_F8ww&feature=youtu.be)
-   1.[Vegrein á ensku)](https://www.instructables.com/lesson/Capacitors-2/)
+    1.[Circuit Playground: C is for Capacitor](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
+    1.[Myndbandsfyrirlestur frá kennara](https://www.youtube.com/watch?v=XOumiF_F8ww&feature=youtu.be)
+    1.[Vegrein á ensku)](https://www.instructables.com/lesson/Capacitors-2/)
 
 1. Fylgdu [Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors) og settu hann upp í:
 
