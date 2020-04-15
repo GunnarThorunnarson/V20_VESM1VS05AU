@@ -5,7 +5,7 @@
   - Settu upp verklega með brauðbretti og íhlutum
   - Svaraðu spurningum.
 
-1. (Skoðaðu [Vélbúnaður og blink: Ladyada´s lesson 0, 1 og 2](https://learn.adafruit.com/series/ladyadas-learn-arduino) og svaraðu eftirfarandi spurningum: (**4%**)
+1. Skoðaðu [Vélbúnaður og blink: Ladyada´s lesson 0, 1 og 2](https://learn.adafruit.com/series/ladyadas-learn-arduino) og svaraðu eftirfarandi spurningum: (**4%**)
 
    1. Hvað er þetta á Arduino og hlutverk þess?
 ![ARduino Uno](https://github.com/GunnarThorunnarson/Verksmidja1/blob/master/Myndir/Arduino.png)
