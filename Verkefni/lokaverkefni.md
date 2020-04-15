@@ -7,7 +7,7 @@
 
 1. Skoðaðu [Vélbúnaður og blink: Ladyada´s lesson 0, 1 og 2](https://learn.adafruit.com/series/ladyadas-learn-arduino) og svaraðu eftirfarandi spurningum: (**4%**)
 
-   1. Hvað er þetta á Arduino og hlutverk þess?
+   1. Hvað er þetta á Arduino og hlutverk þess (sjá mynd)?
 ![ARduino Uno](https://github.com/GunnarThorunnarson/Verksmidja1/blob/master/Myndir/Arduino.png)
    1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
    1. Hver er munurinn á digtial og analog input pinnum?
